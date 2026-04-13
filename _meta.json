@@ -1,0 +1,9 @@
+{
+  "name": "热点文案改写",
+  "version": "2.0.0",
+  "description": "将任意热点事件改写为面向实体老板的短视频口播文案，80%价值输出+20%业务植入",
+  "author": "清华哥",
+  "platforms": ["workbuddy", "qclaw", "openclaw", "codex", "claude-code", "cline"],
+  "requirements": {},
+  "entry": "SKILL.md"
+}

@@ -1,0 +1,22 @@
+{
+  "show_on_site": true,
+  "runtime": "local",
+  "stage": 3,
+  "role": "时事评论员",
+  "avatar": {
+    "style": "notionists",
+    "seed": "trend-commentator-007"
+  },
+  "capabilities": [
+    "web_fetch",
+    "file_write"
+  ],
+  "clients": [
+    "claude-code",
+    "opencode",
+    "workbuddy",
+    "openclaw",
+    "claude-desktop"
+  ],
+  "description_short": "热点事件巧妙转接到自己业务"
+}
